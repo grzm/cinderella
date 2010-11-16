@@ -2,12 +2,12 @@ cinderella
 ==========
 
 Cinderella is a CLI app to manage common open source needs on an Mac
-OSX. Checkout the link below for more info.
+OSX. Checkout [the link](http://www.atmos.org/cinderella) below for more info.
 
 Installing
 ==========
 
-    % open [http://www.atmos.org/cinderella](http://www.atmos.org/cinderella/)
+    % open http://www.atmos.org/cinderella/
 
 You should be in great shape for contributing to open source on a mac after that.
 
